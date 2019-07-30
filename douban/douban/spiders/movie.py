@@ -9,6 +9,7 @@
 """
 开启爬虫：scrapy crawl movie
 输出到文件：scrapy crawl movie -o result.json
+在scrapy.cfg文件的同级目录运行该命令
 """
 
 import scrapy
